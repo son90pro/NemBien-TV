@@ -70,7 +70,7 @@ try:
             "id": match_id,
             "title": title,
             "logo": logo,
-            "group": f"{category} - NÉM BIÊN TV",
+            "group": category,  # Chỉ lấy tên nhóm gọn gàng (Bóng Đá, Bóng Chuyền...)
             "url": stream_url,
             "timestamp": timestamp
         }
@@ -95,7 +95,7 @@ try:
     with open("playlist.m3u", "w", encoding="utf-8") as f:
         f.write(m3u_content)
 
-    print("Đã cập nhật danh sách M3U chuẩn giờ VN và phân nhóm thành công!")
+    print("Đã cập nhật tên nhóm gọn gàng thành công!")
 
 except Exception as e:
     print(f"Lỗi: {e}")
