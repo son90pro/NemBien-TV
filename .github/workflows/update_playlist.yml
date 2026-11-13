@@ -1,17 +1,17 @@
-name: build-and-update
+name: Auto Update M3U Playlist
 
 on:
-  schedule:
-    # Chạy tự động lúc 00 phút mỗi giờ (1 tiếng / lần)
-    - cron: '0 * * * *'
-  workflow_dispatch: # Nút bấm chạy thủ công trên GitHub
+  scheduled: # Tự động chạy định kỳ mỗi 30 phút
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Cho phép bấm chạy thủ công trên GitHub
 
 jobs:
-  build-and-update:
+  update:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -19,18 +19,13 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests cloudscraper
+      - name: Run script to generate M3U
+        run: python update_m3u.py
 
-      - name: Run Scraper
-        run: python scraper.py
-
-      - name: Commit and Push M3U file
+      - name: Commit and push if changed
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
           git add playlist.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update playlist M3U" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update M3U playlist [skip ci]" && git push)
           
