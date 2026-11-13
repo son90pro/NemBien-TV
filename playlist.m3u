@@ -1,19 +1,27 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="361d1c8e1ec212" tvg-name="21:30 13/11 Saudi Arabia vs South Korea [BLV KAKA]" tvg-logo="https://static.flashscore.com/res/image/data/G6x4A5zB-KtpTLRpL.png" group-title="Bóng Đá",21:30 13/11 Saudi Arabia vs South Korea [BLV KAKA]
+#EXTINF:-1 tvg-id="c8dab5161cf59c" tvg-name="02:45 14/11 Netherlands vs Greece [BLV KAKA]" tvg-logo="https://static.flashscore.com/res/image/data/bieizLjl-fazrR153.png" group-title="Bóng Đá",02:45 14/11 Netherlands vs Greece [BLV KAKA]
 https://play.saigon8386.live/live_5afc467f34a4a65b/index.m3u8
-#EXTINF:-1 tvg-id="23d24cc271278b" tvg-name="21:45 13/11 Qatar vs Australia [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/vky4LWkl-UPMdbcD9.png" group-title="Bóng Đá",21:45 13/11 Qatar vs Australia [BLV LAVIE]
-https://ivsplay.saigon999.live/live/live05.m3u8
-#EXTINF:-1 tvg-id="b2938236b83e42" tvg-name="23:00 13/11 Nigeria vs Tanzania [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/OIzTC8fM-CEPH9Bbd.png" group-title="Bóng Đá",23:00 13/11 Nigeria vs Tanzania [BLV THÉP]
-https://ivsplay.saigon999.live/live/live07.m3u8
-#EXTINF:-1 tvg-id="757b6cd5ee5356" tvg-name="23:30 13/11 Projekt Warszawa vs ChKS Chelm [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/8jtboiZg-xzvTF0zd.png" group-title="Bóng Đá",23:30 13/11 Projekt Warszawa vs ChKS Chelm [BLV LAVIE]
-https://ivsplay.saigon999.live/live/live05.m3u8
-#EXTINF:-1 tvg-id="c00a13e9b1d334" tvg-name="00:30 14/11 Denmark U21 vs Netherlands U21 [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/6ongbLzB-nNjPuXU5.png" group-title="Bóng Đá",00:30 14/11 Denmark U21 vs Netherlands U21 [BLV Nắng]
-https://nembientv.com/live/c00a13e9b1d334/index.m3u8
-#EXTINF:-1 tvg-id="c8dab5161cf59c" tvg-name="02:45 14/11 Netherlands vs Greece [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/bieizLjl-fazrR153.png" group-title="Bóng Đá",02:45 14/11 Netherlands vs Greece [BLV LAVIE]
-https://nembientv.com/live/c8dab5161cf59c/index.m3u8
 #EXTINF:-1 tvg-id="e39197e401d729" tvg-name="02:45 14/11 Serbia vs Germany [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/rHIRgwGG-fazrR153.png" group-title="Bóng Đá",02:45 14/11 Serbia vs Germany [BLV THÉP]
-https://nembientv.com/live/e39197e401d729/index.m3u8
-#EXTINF:-1 tvg-id="volleyball_208330" tvg-name="23:30 13/11 Projekt Warszawa vs ChKS Chelm [BLV LAVIE]" tvg-logo="https://media.api-sports.io/volley/teams/2099.png" group-title="Bóng Chuyền",23:30 13/11 Projekt Warszawa vs ChKS Chelm [BLV LAVIE]
-https://ivsplay.saigon999.live/live/live05.m3u8
-#EXTINF:-1 tvg-id="volleyball_211791" tvg-name="23:30 13/11 Dynamo Kazan W vs St. Petersburg W [BLV KAKA]" tvg-logo="https://media.api-sports.io/volley/teams/1048.png" group-title="Bóng Chuyền",23:30 13/11 Dynamo Kazan W vs St. Petersburg W [BLV KAKA]
-https://play.saigon8386.live/live_5afc467f34a4a65b/index.m3u8
+https://ivsplay.saigon999.live/live/live07.m3u8
+#EXTINF:-1 tvg-id="b7c20067ff19ee" tvg-name="17:00 14/11 Chrudim vs Jablonec B [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/bHMXKiWg-6yHcn7E2.png" group-title="Bóng Đá",17:00 14/11 Chrudim vs Jablonec B [BLV LAVIE]
+https://nembientv.com/live/b7c20067ff19ee/index.m3u8
+#EXTINF:-1 tvg-id="797c6b358dc146" tvg-name="19:00 14/11 Trung Quốc vs Malaysia [BLV LAVIE]" tvg-logo="https://img0.aiscore.com/football/team/445ef89e5620a875f7c2eaddd033e39d.png!w60" group-title="Bóng Đá",19:00 14/11 Trung Quốc vs Malaysia [BLV LAVIE]
+https://nembientv.com/live/797c6b358dc146/index.m3u8
+#EXTINF:-1 tvg-id="e8f2a0615a4722" tvg-name="19:00 14/11 Vietnam U23 vs Qatar U23 [BLV T REX]" tvg-logo="https://img0.aiscore.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w60" group-title="Bóng Đá",19:00 14/11 Vietnam U23 vs Qatar U23 [BLV T REX]
+https://nembientv.com/live/e8f2a0615a4722/index.m3u8
+#EXTINF:-1 tvg-id="40c53b6056f439" tvg-name="21:00 14/11 Kosovo vs Israel [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/jup8COkl-WnYHA9YO.png" group-title="Bóng Đá",21:00 14/11 Kosovo vs Israel [BLV Nắng]
+https://nembientv.com/live/40c53b6056f439/index.m3u8
+#EXTINF:-1 tvg-id="86d6932fe7e209" tvg-name="22:15 14/11 Real Sociedad B vs Gijon [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/d0CDHeh5-U144u08h.png" group-title="Bóng Đá",22:15 14/11 Real Sociedad B vs Gijon [BLV THÉP]
+https://nembientv.com/live/86d6932fe7e209/index.m3u8
+#EXTINF:-1 tvg-id="09e9d69e21b46e" tvg-name="15:30 15/11 Việt Nam U19 vs Hàn Quốc U19 [BLV T REX]" tvg-logo="https://static.flashscore.com/res/image/data/Q3QYIP9r-CS4moGMJ.png" group-title="Bóng Đá",15:30 15/11 Việt Nam U19 vs Hàn Quốc U19 [BLV T REX]
+https://nembientv.com/live/09e9d69e21b46e/index.m3u8
+#EXTINF:-1 tvg-id="277eab011ff50b" tvg-name="11:05 14/11 Hisamitsu Springs W vs PFU Blue Cats W [BLV KAKA]" tvg-logo="https://static.flashscore.com/res/image/data/djDTeKyB-v3YmnHll.png" group-title="Bóng Chuyền",11:05 14/11 Hisamitsu Springs W vs PFU Blue Cats W [BLV KAKA]
+https://nembientv.com/live/277eab011ff50b/index.m3u8
+#EXTINF:-1 tvg-id="c69b00dd947a57" tvg-name="12:05 14/11 Okayama Seagulls W vs NEC Red Rockets W [BLV T REX]" tvg-logo="https://static.flashscore.com/res/image/data/hbnnxXeM-KGU5ehTK.png" group-title="Bóng Chuyền",12:05 14/11 Okayama Seagulls W vs NEC Red Rockets W [BLV T REX]
+https://nembientv.com/live/c69b00dd947a57/index.m3u8
+#EXTINF:-1 tvg-id="a7a65b5f42a180" tvg-name="14:30 14/11 Fujian vs Jiangsu Dragons [BLV KAKA]" tvg-logo="https://static.flashscore.com/res/image/data/Q1uXJMWg-WdX6opwk.png" group-title="Bóng Chuyền",14:30 14/11 Fujian vs Jiangsu Dragons [BLV KAKA]
+https://nembientv.com/live/a7a65b5f42a180/index.m3u8
+#EXTINF:-1 tvg-id="b31f80da6c8d63" tvg-name="15:30 14/11 Shandong vs Shanghai [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/CUBvvRAr-AiAYcNgs.png" group-title="Bóng Chuyền",15:30 14/11 Shandong vs Shanghai [BLV Nắng]
+https://nembientv.com/live/b31f80da6c8d63/index.m3u8
+#EXTINF:-1 tvg-id="64983f15c01c51" tvg-name="23:00 14/11 Galatasaray vs Fenerbahce [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/fgEw8ke5-SlztVJL8.png" group-title="Bóng Chuyền",23:00 14/11 Galatasaray vs Fenerbahce [BLV LAVIE]
+https://nembientv.com/live/64983f15c01c51/index.m3u8
