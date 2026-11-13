@@ -48,8 +48,7 @@ try:
                 detail_data = json.loads(detail_res.read().decode("utf-8"))
                 stream_url = detail_data.get("streamUrl", "")
         except Exception:
-            # Fallback nếu không gọi được API chi tiết
-            stream_url = f"https://play.saigon8386.live/{match_id}/index.m3u8"
+            stream_url = ""
 
         # Nếu không có streamUrl thì bỏ qua trận đó
         if not stream_url:
@@ -83,5 +82,37 @@ try:
         # Tiêu đề chuẩn hiển thị: Giờ Ngày | Đội nhà vs Đội khách [Tên BLV]
         title = f"{time_str} {home} vs {away} [{blv_name}]"
 
-        match_
+        match_item = {
+            "id": match_id,
+            "title": title,
+            "logo": logo,
+            "group": category,  # Chỉ lấy tên nhóm gọn gàng
+            "url": stream_url,
+            "timestamp": timestamp
+        }
+        matches_by_category[category].append(match_item)
+
+    # Tạo nội dung file M3U chuẩn IPTV
+    m3u_content = '#EXTM3U x-tvg-url=""\n'
+
+    # Sắp xếp danh mục theo thứ tự ưu tiên (Bóng đá lên đầu)
+    sorted_categories = sorted(matches_by_category.keys(), key=lambda x: category_order.get(x, 99))
+
+    for cat in sorted_categories:
+        match_list = matches_by_category[cat]
+        # Sắp xếp các trận đấu theo thời gian từ sớm đến muộn trong ngày
+        match_list.sort(key=lambda x: x["timestamp"])
         
+        for m in match_list:
+            m3u_content += f'#EXTINF:-1 tvg-id="{m["id"]}" tvg-name="{m["title"]}" tvg-logo="{m["logo"]}" group-title="{m["group"]}",{m["title"]}\n'
+            m3u_content += f'{m["url"]}\n'
+
+    # Ghi ra file playlist.m3u
+    with open("playlist.m3u", "w", encoding="utf-8") as f:
+        f.write(m3u_content)
+
+    print("Cập nhật file M3U thành công!")
+
+except Exception as e:
+    print(f"Lỗi hệ thống: {e}")
+    
