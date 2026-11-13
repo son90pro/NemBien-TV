@@ -1,9 +1,9 @@
 name: Auto Update M3U Playlist
 
 on:
-  scheduled: # Tự động chạy định kỳ mỗi 30 phút
+  schedule:
     - cron: '*/30 * * * *'
-  workflow_dispatch: # Cho phép bấm chạy thủ công trên GitHub
+  workflow_dispatch:
 
 jobs:
   update:
