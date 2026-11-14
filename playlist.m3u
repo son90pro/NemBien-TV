@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="c8dab5161cf59c" tvg-name="02:45 14/11 Netherlands vs Greece [BLV KAKA]" tvg-logo="https://static.flashscore.com/res/image/data/bieizLjl-fazrR153.png" group-title="Bóng Đá",02:45 14/11 Netherlands vs Greece [BLV KAKA]
-https://play.saigon8386.live/live_5afc467f34a4a65b/index.m3u8
-#EXTINF:-1 tvg-id="e39197e401d729" tvg-name="02:45 14/11 Serbia vs Germany [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/rHIRgwGG-fazrR153.png" group-title="Bóng Đá",02:45 14/11 Serbia vs Germany [BLV THÉP]
-https://ivsplay.saigon999.live/live/live07.m3u8
 #EXTINF:-1 tvg-id="b7c20067ff19ee" tvg-name="17:00 14/11 Chrudim vs Jablonec B [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/bHMXKiWg-6yHcn7E2.png" group-title="Bóng Đá",17:00 14/11 Chrudim vs Jablonec B [BLV LAVIE]
 https://nembientv.com/live/b7c20067ff19ee/index.m3u8
 #EXTINF:-1 tvg-id="797c6b358dc146" tvg-name="19:00 14/11 Trung Quốc vs Malaysia [BLV LAVIE]" tvg-logo="https://img0.aiscore.com/football/team/445ef89e5620a875f7c2eaddd033e39d.png!w60" group-title="Bóng Đá",19:00 14/11 Trung Quốc vs Malaysia [BLV LAVIE]
@@ -23,5 +19,9 @@ https://nembientv.com/live/c69b00dd947a57/index.m3u8
 https://nembientv.com/live/a7a65b5f42a180/index.m3u8
 #EXTINF:-1 tvg-id="b31f80da6c8d63" tvg-name="15:30 14/11 Shandong vs Shanghai [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/CUBvvRAr-AiAYcNgs.png" group-title="Bóng Chuyền",15:30 14/11 Shandong vs Shanghai [BLV Nắng]
 https://nembientv.com/live/b31f80da6c8d63/index.m3u8
+#EXTINF:-1 tvg-id="volleyball_217648" tvg-name="18:00 14/11 Gebze vs Ziraat Bankasi [BLV KAKA]" tvg-logo="https://media.api-sports.io/volley/teams/3795.png" group-title="Bóng Chuyền",18:00 14/11 Gebze vs Ziraat Bankasi [BLV KAKA]
+https://nembientv.com/live/volleyball_217648/index.m3u8
+#EXTINF:-1 tvg-id="volleyball_214479" tvg-name="21:30 14/11 Perugia vs Trentino [BLV KAKA]" tvg-logo="https://media.api-sports.io/volley/teams/739.png" group-title="Bóng Chuyền",21:30 14/11 Perugia vs Trentino [BLV KAKA]
+https://nembientv.com/live/volleyball_214479/index.m3u8
 #EXTINF:-1 tvg-id="64983f15c01c51" tvg-name="23:00 14/11 Galatasaray vs Fenerbahce [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/fgEw8ke5-SlztVJL8.png" group-title="Bóng Chuyền",23:00 14/11 Galatasaray vs Fenerbahce [BLV LAVIE]
 https://nembientv.com/live/64983f15c01c51/index.m3u8
