@@ -1,10 +1,6 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="45b3459f85e4fd" tvg-name="02:45 15/11 Portugal vs Denmark [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/IBvrXaZg-vZG58BBc.png" group-title="Bóng Đá",02:45 15/11 Portugal vs Denmark [BLV THÉP]
-https://ivsplay.saigon999.live/live/live07.m3u8
-#EXTINF:-1 tvg-id="fa96f2af522cbb" tvg-name="02:45 15/11 Romania vs Poland [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/WMABMEDa-tKviOc0q.png" group-title="Bóng Đá",02:45 15/11 Romania vs Poland [BLV LAVIE]
-https://ivsplay.saigon999.live/live/live05.m3u8
 #EXTINF:-1 tvg-id="d05ef7ab9e7df1" tvg-name="06:00 15/11 Queretaro vs Monterrey [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/4ncu3lEa-0rbG5js3.png" group-title="Bóng Đá",06:00 15/11 Queretaro vs Monterrey [BLV Nắng]
-https://nembientv.com/live/d05ef7ab9e7df1/index.m3u8
+https://gn-live.saigon999.live/123che/123che@hnstream.m3u8
 #EXTINF:-1 tvg-id="697f898af7c513" tvg-name="15:00 15/11 Kashiwa Reysol vs Kawasaki Frontale [BLV T REX]" tvg-logo="https://static.flashscore.com/res/image/data/ln1GwEYA-A1NlaOLn.png" group-title="Bóng Đá",15:00 15/11 Kashiwa Reysol vs Kawasaki Frontale [BLV T REX]
 https://nembientv.com/live/697f898af7c513/index.m3u8
 #EXTINF:-1 tvg-id="f1ad9ef7c4d858" tvg-name="20:00 15/11 Tenerife vs AD Ceuta [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/4Ywg59Ar-UBV6BGsc.png" group-title="Bóng Đá",20:00 15/11 Tenerife vs AD Ceuta [BLV LAVIE]
@@ -13,6 +9,26 @@ https://nembientv.com/live/f1ad9ef7c4d858/index.m3u8
 https://nembientv.com/live/23ecd2fb2d9d31/index.m3u8
 #EXTINF:-1 tvg-id="081e4c923168e8" tvg-name="22:15 15/11 Granada CF vs Las Palmas [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/8AhQm2xS-pEzOUfJL.png" group-title="Bóng Đá",22:15 15/11 Granada CF vs Las Palmas [BLV THÉP]
 https://nembientv.com/live/081e4c923168e8/index.m3u8
+#EXTINF:-1 tvg-id="c5185f59069e12" tvg-name="00:00 16/11 Belarus vs Albania [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/2aje2RfM-Cfuwb3yH.png" group-title="Bóng Đá",00:00 16/11 Belarus vs Albania [BLV THÉP]
+https://nembientv.com/live/c5185f59069e12/index.m3u8
+#EXTINF:-1 tvg-id="e0601a0494489e" tvg-name="00:00 16/11 Finland vs San Marino [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/Mmyh0ByS-08oJ2RMo.png" group-title="Bóng Đá",00:00 16/11 Finland vs San Marino [BLV Nắng]
+https://nembientv.com/live/e0601a0494489e/index.m3u8
+#EXTINF:-1 tvg-id="12808dbbaabf7c" tvg-name="02:45 16/11 France vs Turkey [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/I5PqTkcM-0bvH5S2D.png" group-title="Bóng Đá",02:45 16/11 France vs Turkey [BLV LAVIE]
+https://nembientv.com/live/12808dbbaabf7c/index.m3u8
+#EXTINF:-1 tvg-id="b64d39a2c21311" tvg-name="02:45 16/11 Spain vs England [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/Od7JGXZA-0E8Iihe1.png" group-title="Bóng Đá",02:45 16/11 Spain vs England [BLV THÉP]
+https://nembientv.com/live/b64d39a2c21311/index.m3u8
+#EXTINF:-1 tvg-id="040a1f6998c464" tvg-name="16:00 16/11 Inhulets vs Probiy Horodenka [BLV T REX]" tvg-logo="https://static.flashscore.com/res/image/data/fLq0KMYA-SxCfwmHs.png" group-title="Bóng Đá",16:00 16/11 Inhulets vs Probiy Horodenka [BLV T REX]
+https://nembientv.com/live/040a1f6998c464/index.m3u8
+#EXTINF:-1 tvg-id="b03bc792ef9251" tvg-name="19:00 16/11 Russia U21 vs Kyrgyzstan U23 [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/OWHa4wWg-pWJEuGxm.png" group-title="Bóng Đá",19:00 16/11 Russia U21 vs Kyrgyzstan U23 [BLV THÉP]
+https://nembientv.com/live/b03bc792ef9251/index.m3u8
+#EXTINF:-1 tvg-id="0b2c2ba9c8ced0" tvg-name="20:00 16/11 Namibia vs Cameroon [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/A76ZZEfM-jcdLSZc5.png" group-title="Bóng Đá",20:00 16/11 Namibia vs Cameroon [BLV LAVIE]
+https://nembientv.com/live/0b2c2ba9c8ced0/index.m3u8
+#EXTINF:-1 tvg-id="d73c3fe7d099c0" tvg-name="21:00 16/11 Italy U20 vs Switzerland U20 [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/nTVKaIZA-xhH46umt.png" group-title="Bóng Đá",21:00 16/11 Italy U20 vs Switzerland U20 [BLV Nắng]
+https://nembientv.com/live/d73c3fe7d099c0/index.m3u8
+#EXTINF:-1 tvg-id="d06d3ca3de790a" tvg-name="22:00 16/11 Kazakhstan vs Slovakia [BLV THÉP]" tvg-logo="https://img0.aiscore.com/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w60" group-title="Bóng Đá",22:00 16/11 Kazakhstan vs Slovakia [BLV THÉP]
+https://nembientv.com/live/d06d3ca3de790a/index.m3u8
+#EXTINF:-1 tvg-id="0f6e05951dcd22" tvg-name="23:00 16/11 Fenerbahce 2 vs Kagitspor [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/pUbrsqDa-K6y0pO4E.png" group-title="Bóng Đá",23:00 16/11 Fenerbahce 2 vs Kagitspor [BLV Nắng]
+https://nembientv.com/live/0f6e05951dcd22/index.m3u8
 #EXTINF:-1 tvg-id="2e14b00b72fc7b" tvg-name="12:00 15/11 Okayama Seagulls W vs Okayama Seagulls W [BLV T REX]" tvg-logo="https://static.flashscore.com/res/image/data/hbnnxXeM-KGU5ehTK.png" group-title="Bóng Chuyền",12:00 15/11 Okayama Seagulls W vs Okayama Seagulls W [BLV T REX]
 https://nembientv.com/live/2e14b00b72fc7b/index.m3u8
 #EXTINF:-1 tvg-id="aab435d15fc68c" tvg-name="17:00 15/11 Tallin University vs Rakvere [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/EoKDjydM-CCIng6vb.png" group-title="Bóng Chuyền",17:00 15/11 Tallin University vs Rakvere [BLV Nắng]
