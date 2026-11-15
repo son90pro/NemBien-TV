@@ -1,20 +1,8 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="f1ad9ef7c4d858" tvg-name="20:00 15/11 Tenerife vs AD Ceuta [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/4Ywg59Ar-UBV6BGsc.png" group-title="Bóng Đá",20:00 15/11 Tenerife vs AD Ceuta [BLV LAVIE]
-https://ivsplay.saigon999.live/live/live05.m3u8
-#EXTINF:-1 tvg-id="23ecd2fb2d9d31" tvg-name="21:00 15/11 Cyprus vs Montenegro [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/QJf0H5HG-vZG58BBc.png" group-title="Bóng Đá",21:00 15/11 Cyprus vs Montenegro [BLV Nắng]
-https://nembientv.com/live/23ecd2fb2d9d31/index.m3u8
-#EXTINF:-1 tvg-id="081e4c923168e8" tvg-name="22:15 15/11 Granada CF vs Las Palmas [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/8AhQm2xS-pEzOUfJL.png" group-title="Bóng Đá",22:15 15/11 Granada CF vs Las Palmas [BLV THÉP]
-https://nembientv.com/live/081e4c923168e8/index.m3u8
-#EXTINF:-1 tvg-id="c5185f59069e12" tvg-name="00:00 16/11 Belarus vs Albania [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/2aje2RfM-Cfuwb3yH.png" group-title="Bóng Đá",00:00 16/11 Belarus vs Albania [BLV THÉP]
-https://nembientv.com/live/c5185f59069e12/index.m3u8
-#EXTINF:-1 tvg-id="e0601a0494489e" tvg-name="00:00 16/11 Finland vs San Marino [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/Mmyh0ByS-08oJ2RMo.png" group-title="Bóng Đá",00:00 16/11 Finland vs San Marino [BLV Nắng]
-https://nembientv.com/live/e0601a0494489e/index.m3u8
 #EXTINF:-1 tvg-id="12808dbbaabf7c" tvg-name="02:45 16/11 France vs Turkey [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/I5PqTkcM-0bvH5S2D.png" group-title="Bóng Đá",02:45 16/11 France vs Turkey [BLV LAVIE]
 https://nembientv.com/live/12808dbbaabf7c/index.m3u8
 #EXTINF:-1 tvg-id="b64d39a2c21311" tvg-name="02:45 16/11 Spain vs England [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/Od7JGXZA-0E8Iihe1.png" group-title="Bóng Đá",02:45 16/11 Spain vs England [BLV THÉP]
 https://nembientv.com/live/b64d39a2c21311/index.m3u8
-#EXTINF:-1 tvg-id="b7ede5bb66cccd" tvg-name="02:45 16/11 Belgium vs Italy [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/Qur1J5jl-dtrVaP64.png" group-title="Bóng Đá",02:45 16/11 Belgium vs Italy [BLV Nắng]
-https://nembientv.com/live/b7ede5bb66cccd/index.m3u8
 #EXTINF:-1 tvg-id="040a1f6998c464" tvg-name="16:00 16/11 Inhulets vs Probiy Horodenka [BLV T REX]" tvg-logo="https://static.flashscore.com/res/image/data/fLq0KMYA-SxCfwmHs.png" group-title="Bóng Đá",16:00 16/11 Inhulets vs Probiy Horodenka [BLV T REX]
 https://nembientv.com/live/040a1f6998c464/index.m3u8
 #EXTINF:-1 tvg-id="71e75b14fa0db9" tvg-name="18:00 16/11 Uzbekistan U20 vs Venezuela U20 [BLV T REX]" tvg-logo="https://static.flashscore.com/res/image/data/nPzBU7Da-fkRZWPfl.png" group-title="Bóng Đá",18:00 16/11 Uzbekistan U20 vs Venezuela U20 [BLV T REX]
@@ -29,7 +17,5 @@ https://nembientv.com/live/d73c3fe7d099c0/index.m3u8
 https://nembientv.com/live/d06d3ca3de790a/index.m3u8
 #EXTINF:-1 tvg-id="0f6e05951dcd22" tvg-name="23:00 16/11 Fenerbahce 2 vs Kagitspor [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/pUbrsqDa-K6y0pO4E.png" group-title="Bóng Đá",23:00 16/11 Fenerbahce 2 vs Kagitspor [BLV Nắng]
 https://nembientv.com/live/0f6e05951dcd22/index.m3u8
-#EXTINF:-1 tvg-id="692ec5acdcfabe" tvg-name="21:00 15/11  Bogdanka LUK Lublin vs  Asseco Resovia Rzeszów [BLV T REX]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/LKPSLublinLogo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Bóng Chuyền",21:00 15/11  Bogdanka LUK Lublin vs  Asseco Resovia Rzeszów [BLV T REX]
-https://nembientv.com/live/692ec5acdcfabe/index.m3u8
-#EXTINF:-1 tvg-id="50ec593dea5d6d" tvg-name="23:00 15/11 Scandicci W vs UYBA Busto Arsizio W [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/0QZRMbg5-MuuCgGgG.png" group-title="Bóng Chuyền",23:00 15/11 Scandicci W vs UYBA Busto Arsizio W [BLV LAVIE]
-https://nembientv.com/live/50ec593dea5d6d/index.m3u8
+#EXTINF:-1 tvg-id="a2f035f481071a" tvg-name="00:00 16/11 Perugia vs Lube Civitanova [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/rJmXQuwS-AypQcuRK.png" group-title="Bóng Chuyền",00:00 16/11 Perugia vs Lube Civitanova [BLV Nắng]
+https://gn-live.saigon999.live/123che/123che@hnstream.m3u8
