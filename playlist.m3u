@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="12808dbbaabf7c" tvg-name="02:45 16/11 France vs Turkey [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/I5PqTkcM-0bvH5S2D.png" group-title="Bóng Đá",02:45 16/11 France vs Turkey [BLV LAVIE]
-https://nembientv.com/live/12808dbbaabf7c/index.m3u8
-#EXTINF:-1 tvg-id="b64d39a2c21311" tvg-name="02:45 16/11 Spain vs England [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/Od7JGXZA-0E8Iihe1.png" group-title="Bóng Đá",02:45 16/11 Spain vs England [BLV THÉP]
-https://nembientv.com/live/b64d39a2c21311/index.m3u8
 #EXTINF:-1 tvg-id="040a1f6998c464" tvg-name="16:00 16/11 Inhulets vs Probiy Horodenka [BLV T REX]" tvg-logo="https://static.flashscore.com/res/image/data/fLq0KMYA-SxCfwmHs.png" group-title="Bóng Đá",16:00 16/11 Inhulets vs Probiy Horodenka [BLV T REX]
 https://nembientv.com/live/040a1f6998c464/index.m3u8
 #EXTINF:-1 tvg-id="71e75b14fa0db9" tvg-name="18:00 16/11 Uzbekistan U20 vs Venezuela U20 [BLV T REX]" tvg-logo="https://static.flashscore.com/res/image/data/nPzBU7Da-fkRZWPfl.png" group-title="Bóng Đá",18:00 16/11 Uzbekistan U20 vs Venezuela U20 [BLV T REX]
@@ -13,9 +9,19 @@ https://nembientv.com/live/b03bc792ef9251/index.m3u8
 https://nembientv.com/live/0b2c2ba9c8ced0/index.m3u8
 #EXTINF:-1 tvg-id="d73c3fe7d099c0" tvg-name="21:00 16/11 Italy U20 vs Switzerland U20 [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/nTVKaIZA-xhH46umt.png" group-title="Bóng Đá",21:00 16/11 Italy U20 vs Switzerland U20 [BLV Nắng]
 https://nembientv.com/live/d73c3fe7d099c0/index.m3u8
+#EXTINF:-1 tvg-id="5ef8990b97d4c4" tvg-name="22:00 16/11 Somalia vs Ghana [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/UJaSuYFG-tt2M10fr.png" group-title="Bóng Đá",22:00 16/11 Somalia vs Ghana [BLV LAVIE]
+https://nembientv.com/live/5ef8990b97d4c4/index.m3u8
 #EXTINF:-1 tvg-id="d06d3ca3de790a" tvg-name="22:00 16/11 Kazakhstan vs Slovakia [BLV THÉP]" tvg-logo="https://img0.aiscore.com/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w60" group-title="Bóng Đá",22:00 16/11 Kazakhstan vs Slovakia [BLV THÉP]
 https://nembientv.com/live/d06d3ca3de790a/index.m3u8
 #EXTINF:-1 tvg-id="0f6e05951dcd22" tvg-name="23:00 16/11 Fenerbahce 2 vs Kagitspor [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/pUbrsqDa-K6y0pO4E.png" group-title="Bóng Đá",23:00 16/11 Fenerbahce 2 vs Kagitspor [BLV Nắng]
 https://nembientv.com/live/0f6e05951dcd22/index.m3u8
-#EXTINF:-1 tvg-id="a2f035f481071a" tvg-name="00:00 16/11 Perugia vs Lube Civitanova [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/rJmXQuwS-AypQcuRK.png" group-title="Bóng Chuyền",00:00 16/11 Perugia vs Lube Civitanova [BLV Nắng]
-https://gn-live.saigon999.live/123che/123che@hnstream.m3u8
+#EXTINF:-1 tvg-id="0bd4d58cbc60c0" tvg-name="00:00 17/11 Estonia vs Bulgaria [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/WjOKVZzB-YkZoQLK9.png" group-title="Bóng Đá",00:00 17/11 Estonia vs Bulgaria [BLV THÉP]
+https://nembientv.com/live/0bd4d58cbc60c0/index.m3u8
+#EXTINF:-1 tvg-id="d44588564dd2ee" tvg-name="00:00 17/11 Iceland vs Luxembourg [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/t6Z77hZg-vokh4vbj.png" group-title="Bóng Đá",00:00 17/11 Iceland vs Luxembourg [BLV LAVIE]
+https://nembientv.com/live/d44588564dd2ee/index.m3u8
+#EXTINF:-1 tvg-id="88a0cb0d233cc9" tvg-name="02:30 17/11 Albacete vs Celta Vigo B [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/M9tNPVfM-4297a0ys.png" group-title="Bóng Đá",02:30 17/11 Albacete vs Celta Vigo B [BLV Nắng]
+https://nembientv.com/live/88a0cb0d233cc9/index.m3u8
+#EXTINF:-1 tvg-id="0603efb104ad3f" tvg-name="02:45 17/11 Switzerland vs Scotland [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/tWvN5N9r-88LAtdNt.png" group-title="Bóng Đá",02:45 17/11 Switzerland vs Scotland [BLV LAVIE]
+https://nembientv.com/live/0603efb104ad3f/index.m3u8
+#EXTINF:-1 tvg-id="20442d4fa08a83" tvg-name="02:45 17/11 Germany vs Netherlands [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/zP226aXg-fB4vYUZp.png" group-title="Bóng Đá",02:45 17/11 Germany vs Netherlands [BLV THÉP]
+https://nembientv.com/live/20442d4fa08a83/index.m3u8
