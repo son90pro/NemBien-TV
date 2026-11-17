@@ -1,22 +1,12 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="003a7f288dd6fb" tvg-name="19:00 17/11 Kyrgyzstan vs Vietnam [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/0pjjqjhl-vZOmLBBe.png" group-title="Bóng Đá",19:00 17/11 Kyrgyzstan vs Vietnam [BLV THÉP]
+#EXTINF:-1 tvg-id="10e82f4e34bc99" tvg-name="02:45 18/11 Denmark vs Norway [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/d8MRvRBr-2kmuAQ93.png" group-title="Bóng Đá",02:45 18/11 Denmark vs Norway [BLV LAVIE]
+https://ivsplay.saigon999.live/live/live05.m3u8
+#EXTINF:-1 tvg-id="af0c32ff053121" tvg-name="02:45 18/11 Bosnia & Herzegovina vs Romania [BLV LEO]" tvg-logo="https://static.flashscore.com/res/image/data/ERFR3ZYA-Cfuwb3yH.png" group-title="Bóng Đá",02:45 18/11 Bosnia & Herzegovina vs Romania [BLV LEO]
+https://play.saigon8386.live/live_5afc467f34a4a65b/index.m3u8
+#EXTINF:-1 tvg-id="fbd69f32eea08e" tvg-name="02:45 18/11 Wales vs Portugal [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/SdWlpUhl-YkZoQLK9.png" group-title="Bóng Đá",02:45 18/11 Wales vs Portugal [BLV THÉP]
 https://ivsplay.saigon999.live/live/live07.m3u8
-#EXTINF:-1 tvg-id="d58fdd373136d7" tvg-name="20:30 17/11 Uralochka-NTMK W vs Saratov W [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/rsxDAiyS-YkXz5hTm.png" group-title="Bóng Đá",20:30 17/11 Uralochka-NTMK W vs Saratov W [BLV Nắng]
-https://nembientv.com/live/d58fdd373136d7/index.m3u8
-#EXTINF:-1 tvg-id="a45482bdef9c0c" tvg-name="21:00 17/11 Qatar vs South Korea [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/vky4LWkl-UPMdbcD9.png" group-title="Bóng Đá",21:00 17/11 Qatar vs South Korea [BLV LAVIE]
-https://nembientv.com/live/a45482bdef9c0c/index.m3u8
-#EXTINF:-1 tvg-id="2460de9dc5adce" tvg-name="22:30 17/11 Saudi Arabia vs Uzbekistan [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/G6x4A5zB-KtpTLRpL.png" group-title="Bóng Đá",22:30 17/11 Saudi Arabia vs Uzbekistan [BLV THÉP]
-https://nembientv.com/live/2460de9dc5adce/index.m3u8
-#EXTINF:-1 tvg-id="3fdba9c03282d2" tvg-name="23:00 17/11 Jordan vs Australia [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/4nL6jkg5-2cyWyYGn.png" group-title="Bóng Đá",23:00 17/11 Jordan vs Australia [BLV Nắng]
-https://nembientv.com/live/3fdba9c03282d2/index.m3u8
-#EXTINF:-1 tvg-id="21a0ac8721f7c5" tvg-name="00:30 18/11 Netherlands U21 vs Denmark U21 [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/rg8gs5yB-GfWd3qe6.png" group-title="Bóng Đá",00:30 18/11 Netherlands U21 vs Denmark U21 [BLV LAVIE]
-https://nembientv.com/live/21a0ac8721f7c5/index.m3u8
-#EXTINF:-1 tvg-id="61c5a9ab4d64ab" tvg-name="00:30 18/11 Portugal U21 vs Norway U21 [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/6uPditdM-tjkFB7mQ.png" group-title="Bóng Đá",00:30 18/11 Portugal U21 vs Norway U21 [BLV THÉP]
-https://nembientv.com/live/61c5a9ab4d64ab/index.m3u8
-#EXTINF:-1 tvg-id="10e82f4e34bc99" tvg-name="02:45 18/11 Denmark vs Norway [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/d8MRvRBr-2kmuAQ93.png" group-title="Bóng Đá",02:45 18/11 Denmark vs Norway [BLV THÉP]
-https://nembientv.com/live/10e82f4e34bc99/index.m3u8
-#EXTINF:-1 tvg-id="fbd69f32eea08e" tvg-name="02:45 18/11 Wales vs Portugal [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/SdWlpUhl-YkZoQLK9.png" group-title="Bóng Đá",02:45 18/11 Wales vs Portugal [BLV LAVIE]
-https://nembientv.com/live/fbd69f32eea08e/index.m3u8
+#EXTINF:-1 tvg-id="5ad4b7b1e9b927" tvg-name="06:00 18/11 Argentina vs Costa Rica [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/xQCUe9zB-AmY8ktbk.png" group-title="Bóng Đá",06:00 18/11 Argentina vs Costa Rica [BLV Nắng]
+https://nembientv.com/live/5ad4b7b1e9b927/index.m3u8
 #EXTINF:-1 tvg-id="d5da4abb931a10" tvg-name="18:00 18/11 Ho Chi Minh vs Buriram [BLV T REX]" tvg-logo="https://static.flashscore.com/res/image/data/Cf2X2OAr-pnSvBhcE.png" group-title="Bóng Đá",18:00 18/11 Ho Chi Minh vs Buriram [BLV T REX]
 https://nembientv.com/live/d5da4abb931a10/index.m3u8
 #EXTINF:-1 tvg-id="28572485fa51a0" tvg-name="18:30 18/11 Tampines vs Ratchaburi [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/n5MuN2e5-d0hl69s2.png" group-title="Bóng Đá",18:30 18/11 Tampines vs Ratchaburi [BLV LAVIE]
@@ -25,10 +15,6 @@ https://nembientv.com/live/28572485fa51a0/index.m3u8
 https://nembientv.com/live/e2576c0cae2626/index.m3u8
 #EXTINF:-1 tvg-id="161d4585a8a037" tvg-name="22:00 18/11 Dubocica vs Radnicki Nis [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/Gfp81Tkl-tQFWRClH.png" group-title="Bóng Đá",22:00 18/11 Dubocica vs Radnicki Nis [BLV THÉP]
 https://nembientv.com/live/161d4585a8a037/index.m3u8
-#EXTINF:-1 tvg-id="8617cbaca604f0" tvg-name="17:00 17/11 IBK Women vs Daejeon KGC Women [BLV T REX]" tvg-logo="https://img0.aiscore.com/volleyball/team/eadd99bb3d03bd80c6204376501542ff.png!w60" group-title="Bóng Chuyền",17:00 17/11 IBK Women vs Daejeon KGC Women [BLV T REX]
-https://play.saigon8386.live/live_8e01a20967a65b5d/index.m3u8
-#EXTINF:-1 tvg-id="591eb1e820b54d" tvg-name="01:30 18/11 Beziers W vs TFOC W [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/vm1W7qh5-n1sH02GH.png" group-title="Bóng Chuyền",01:30 18/11 Beziers W vs TFOC W [BLV Nắng]
-https://nembientv.com/live/591eb1e820b54d/index.m3u8
 #EXTINF:-1 tvg-id="25f6f1edfb7938" tvg-name="17:00 18/11 SOOP SOOPers W vs Hyundai E&C Hillstate W [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/zaBfVVfM-jZFjtRuk.png" group-title="Bóng Chuyền",17:00 18/11 SOOP SOOPers W vs Hyundai E&C Hillstate W [BLV Nắng]
 https://nembientv.com/live/25f6f1edfb7938/index.m3u8
 #EXTINF:-1 tvg-id="7bf7afa0ee954b" tvg-name="19:00 18/11 Thượng Hải vs Thiên Tân [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/IoR3D2Xg-E3Xarx0S.png" group-title="Bóng Chuyền",19:00 18/11 Thượng Hải vs Thiên Tân [BLV Nắng]
