@@ -1,25 +1,37 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="10e82f4e34bc99" tvg-name="02:45 18/11 Denmark vs Norway [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/d8MRvRBr-2kmuAQ93.png" group-title="Bóng Đá",02:45 18/11 Denmark vs Norway [BLV LAVIE]
-https://ivsplay.saigon999.live/live/live05.m3u8
-#EXTINF:-1 tvg-id="af0c32ff053121" tvg-name="02:45 18/11 Bosnia & Herzegovina vs Romania [BLV LEO]" tvg-logo="https://static.flashscore.com/res/image/data/ERFR3ZYA-Cfuwb3yH.png" group-title="Bóng Đá",02:45 18/11 Bosnia & Herzegovina vs Romania [BLV LEO]
-https://play.saigon8386.live/live_5afc467f34a4a65b/index.m3u8
-#EXTINF:-1 tvg-id="fbd69f32eea08e" tvg-name="02:45 18/11 Wales vs Portugal [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/SdWlpUhl-YkZoQLK9.png" group-title="Bóng Đá",02:45 18/11 Wales vs Portugal [BLV THÉP]
-https://ivsplay.saigon999.live/live/live07.m3u8
-#EXTINF:-1 tvg-id="5ad4b7b1e9b927" tvg-name="06:00 18/11 Argentina vs Costa Rica [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/xQCUe9zB-AmY8ktbk.png" group-title="Bóng Đá",06:00 18/11 Argentina vs Costa Rica [BLV Nắng]
-https://nembientv.com/live/5ad4b7b1e9b927/index.m3u8
 #EXTINF:-1 tvg-id="d5da4abb931a10" tvg-name="18:00 18/11 Ho Chi Minh vs Buriram [BLV T REX]" tvg-logo="https://static.flashscore.com/res/image/data/Cf2X2OAr-pnSvBhcE.png" group-title="Bóng Đá",18:00 18/11 Ho Chi Minh vs Buriram [BLV T REX]
 https://nembientv.com/live/d5da4abb931a10/index.m3u8
-#EXTINF:-1 tvg-id="28572485fa51a0" tvg-name="18:30 18/11 Tampines vs Ratchaburi [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/n5MuN2e5-d0hl69s2.png" group-title="Bóng Đá",18:30 18/11 Tampines vs Ratchaburi [BLV LAVIE]
-https://nembientv.com/live/28572485fa51a0/index.m3u8
 #EXTINF:-1 tvg-id="e2576c0cae2626" tvg-name="21:30 18/11 Al Adalah vs Al Orubah [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/GArR1dCa-CATmi5yJ.png" group-title="Bóng Đá",21:30 18/11 Al Adalah vs Al Orubah [BLV LAVIE]
 https://nembientv.com/live/e2576c0cae2626/index.m3u8
 #EXTINF:-1 tvg-id="161d4585a8a037" tvg-name="22:00 18/11 Dubocica vs Radnicki Nis [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/Gfp81Tkl-tQFWRClH.png" group-title="Bóng Đá",22:00 18/11 Dubocica vs Radnicki Nis [BLV THÉP]
 https://nembientv.com/live/161d4585a8a037/index.m3u8
-#EXTINF:-1 tvg-id="25f6f1edfb7938" tvg-name="17:00 18/11 SOOP SOOPers W vs Hyundai E&C Hillstate W [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/zaBfVVfM-jZFjtRuk.png" group-title="Bóng Chuyền",17:00 18/11 SOOP SOOPers W vs Hyundai E&C Hillstate W [BLV Nắng]
-https://nembientv.com/live/25f6f1edfb7938/index.m3u8
+#EXTINF:-1 tvg-id="4fecbc57df0b82" tvg-name="00:45 19/11 Real Madrid W vs Inter W [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/SAFvjqe5-WpmKUEXD.png" group-title="Bóng Đá",00:45 19/11 Real Madrid W vs Inter W [BLV THÉP]
+https://nembientv.com/live/4fecbc57df0b82/index.m3u8
+#EXTINF:-1 tvg-id="6c49b175f5985f" tvg-name="00:45 19/11 Hacken W vs Manchester City W [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/46mySJyB-SU3IbkKJ.png" group-title="Bóng Đá",00:45 19/11 Hacken W vs Manchester City W [BLV LAVIE]
+https://nembientv.com/live/6c49b175f5985f/index.m3u8
+#EXTINF:-1 tvg-id="304baec181cc1c" tvg-name="03:00 19/11 Chelsea W vs PSG W [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/Miv9FHHG-dQ3CHKf1.png" group-title="Bóng Đá",03:00 19/11 Chelsea W vs PSG W [BLV THÉP]
+https://nembientv.com/live/304baec181cc1c/index.m3u8
+#EXTINF:-1 tvg-id="3841c997e2c10d" tvg-name="15:30 19/11 Preston Lions vs South Hobart [BLV T REX]" tvg-logo="https://static.flashscore.com/res/image/data/4rLQYLGG-lldGheui.png" group-title="Bóng Đá",15:30 19/11 Preston Lions vs South Hobart [BLV T REX]
+https://nembientv.com/live/3841c997e2c10d/index.m3u8
+#EXTINF:-1 tvg-id="e48a715be622e7" tvg-name="19:30 19/11 Cong An Ha Noi vs Johor DT [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/CU93T5Fa-KnmSRxvE.png" group-title="Bóng Đá",19:30 19/11 Cong An Ha Noi vs Johor DT [BLV THÉP]
+https://nembientv.com/live/e48a715be622e7/index.m3u8
+#EXTINF:-1 tvg-id="59e6cc5ad6969c" tvg-name="20:00 19/11 Termez Surkhon vs Andijan [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/6LEe9Eg5-IFjYtoL1.png" group-title="Bóng Đá",20:00 19/11 Termez Surkhon vs Andijan [BLV LAVIE]
+https://nembientv.com/live/59e6cc5ad6969c/index.m3u8
+#EXTINF:-1 tvg-id="3131cd53424cdc" tvg-name="22:25 19/11 Al Ain vs Al Dhafra [BLV THÉP]" tvg-logo="https://static.flashscore.com/res/image/data/dS0NzAil-OKa9P8WR.png" group-title="Bóng Đá",22:25 19/11 Al Ain vs Al Dhafra [BLV THÉP]
+https://nembientv.com/live/3131cd53424cdc/index.m3u8
+#EXTINF:-1 tvg-id="50fbd831c01fcf" tvg-name="22:30 19/11 Al Gharraf vs Al Quwa Al Jawiya [BLV LAVIE]" tvg-logo="https://static.flashscore.com/res/image/data/EZkaRdwS-MRa15xx7.png" group-title="Bóng Đá",22:30 19/11 Al Gharraf vs Al Quwa Al Jawiya [BLV LAVIE]
+https://nembientv.com/live/50fbd831c01fcf/index.m3u8
+#EXTINF:-1 tvg-id="d176431cad7724" tvg-name="23:00 19/11 Zeren Spor W vs Galatasaray W [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/OYCV85hl-4UHCiGe2.png" group-title="Bóng Đá",23:00 19/11 Zeren Spor W vs Galatasaray W [BLV Nắng]
+https://nembientv.com/live/d176431cad7724/index.m3u8
 #EXTINF:-1 tvg-id="7bf7afa0ee954b" tvg-name="19:00 18/11 Thượng Hải vs Thiên Tân [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/IoR3D2Xg-E3Xarx0S.png" group-title="Bóng Chuyền",19:00 18/11 Thượng Hải vs Thiên Tân [BLV Nắng]
 https://nembientv.com/live/7bf7afa0ee954b/index.m3u8
 #EXTINF:-1 tvg-id="1b32945af4fa82" tvg-name="20:30 18/11 Fenerbahce W vs THY W [BLV T REX]" tvg-logo="https://static.flashscore.com/res/image/data/IROBodZA-z9Ihsud3.png" group-title="Bóng Chuyền",20:30 18/11 Fenerbahce W vs THY W [BLV T REX]
 https://nembientv.com/live/1b32945af4fa82/index.m3u8
 #EXTINF:-1 tvg-id="9537ccc1085c61" tvg-name="23:00 18/11 Eczacibasi W vs Aras Kargo W [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/6wWfI3zB-jm1g2SD5.png" group-title="Bóng Chuyền",23:00 18/11 Eczacibasi W vs Aras Kargo W [BLV Nắng]
 https://nembientv.com/live/9537ccc1085c61/index.m3u8
+#EXTINF:-1 tvg-id="f363e750eabd7c" tvg-name="02:30 19/11 Stilon Gorzow vs Lublin [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/AwCkrDXg-A5yULyWi.png" group-title="Bóng Chuyền",02:30 19/11 Stilon Gorzow vs Lublin [BLV Nắng]
+https://nembientv.com/live/f363e750eabd7c/index.m3u8
+#EXTINF:-1 tvg-id="759a1c8f57e2ef" tvg-name="18:00 19/11 Giang Tô vs Quảng Đông [BLV Nắng]" tvg-logo="https://static.flashscore.com/res/image/data/htiQ4IEG-YRn3qYc4.png" group-title="Bóng Chuyền",18:00 19/11 Giang Tô vs Quảng Đông [BLV Nắng]
+https://nembientv.com/live/759a1c8f57e2ef/index.m3u8
+#EXTINF:-1 tvg-id="54018c8317914d" tvg-name="19:00 19/11 HÀ BẮC vs THƯỢNG HẢI [BLV T REX]" tvg-logo="https://static.flashscore.com/res/image/data/AFfPW7eM-vXV4GvV7.png" group-title="Bóng Chuyền",19:00 19/11 HÀ BẮC vs THƯỢNG HẢI [BLV T REX]
+https://nembientv.com/live/54018c8317914d/index.m3u8
