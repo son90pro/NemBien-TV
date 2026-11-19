@@ -1,18 +1,6 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="3841c997e2c10d" tvg-name="15:30 19/11 Preston Lions vs South Hobart [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/4rLQYLGG-lldGheui.png" group-title="Bóng Đá",15:30 19/11 Preston Lions vs South Hobart [BLV The Hulk]
-https://play.saigon8386.live/live_8e01a20967a65b5d/index.m3u8
-#EXTINF:-1 tvg-id="e48a715be622e7" tvg-name="19:30 19/11 Cong An Ha Noi vs Johor DT [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/CU93T5Fa-KnmSRxvE.png" group-title="Bóng Đá",19:30 19/11 Cong An Ha Noi vs Johor DT [BLV Vision]
-https://nembientv.com/live/e48a715be622e7/index.m3u8
-#EXTINF:-1 tvg-id="59e6cc5ad6969c" tvg-name="20:00 19/11 Termez Surkhon vs Andijan [BLV SpiderMan ]" tvg-logo="https://static.flashscore.com/res/image/data/6LEe9Eg5-IFjYtoL1.png" group-title="Bóng Đá",20:00 19/11 Termez Surkhon vs Andijan [BLV SpiderMan ]
-https://nembientv.com/live/59e6cc5ad6969c/index.m3u8
-#EXTINF:-1 tvg-id="3131cd53424cdc" tvg-name="22:25 19/11 Al Ain vs Al Dhafra [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/dS0NzAil-OKa9P8WR.png" group-title="Bóng Đá",22:25 19/11 Al Ain vs Al Dhafra [BLV Vision]
-https://nembientv.com/live/3131cd53424cdc/index.m3u8
-#EXTINF:-1 tvg-id="50fbd831c01fcf" tvg-name="22:30 19/11 Al Gharraf vs Al Quwa Al Jawiya [BLV SpiderMan ]" tvg-logo="https://static.flashscore.com/res/image/data/EZkaRdwS-MRa15xx7.png" group-title="Bóng Đá",22:30 19/11 Al Gharraf vs Al Quwa Al Jawiya [BLV SpiderMan ]
-https://nembientv.com/live/50fbd831c01fcf/index.m3u8
-#EXTINF:-1 tvg-id="d176431cad7724" tvg-name="23:00 19/11 Zeren Spor W vs Galatasaray W [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/OYCV85hl-4UHCiGe2.png" group-title="Bóng Đá",23:00 19/11 Zeren Spor W vs Galatasaray W [BLV Wanda]
-https://nembientv.com/live/d176431cad7724/index.m3u8
 #EXTINF:-1 tvg-id="6b6fbf9c962eeb" tvg-name="00:45 20/11 Austria Vienna W vs Bayern Munich W [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/xWFNzHf5-SKlmyMpm.png" group-title="Bóng Đá",00:45 20/11 Austria Vienna W vs Bayern Munich W [BLV Vision]
-https://nembientv.com/live/6b6fbf9c962eeb/index.m3u8
+https://ivsplay.saigon999.live/live/live07.m3u8
 #EXTINF:-1 tvg-id="d934bc875bf30e" tvg-name="00:45 20/11 Paris FC W vs Koge W [BLV SpiderMan ]" tvg-logo="https://static.flashscore.com/res/image/data/f9dzeDzB-hEviRC6T.png" group-title="Bóng Đá",00:45 20/11 Paris FC W vs Koge W [BLV SpiderMan ]
 https://nembientv.com/live/d934bc875bf30e/index.m3u8
 #EXTINF:-1 tvg-id="7deacc3b709370" tvg-name="03:00 20/11 Arsenal W vs OL Lyonnes W [BLV SpiderMan ]" tvg-logo="https://static.flashscore.com/res/image/data/WbvWGBEG-QmAvFdvS.png" group-title="Bóng Đá",03:00 20/11 Arsenal W vs OL Lyonnes W [BLV SpiderMan ]
@@ -33,9 +21,5 @@ https://nembientv.com/live/b6abf38367e0d1/index.m3u8
 https://nembientv.com/live/f7d46effdaa24a/index.m3u8
 #EXTINF:-1 tvg-id="040009acd0f9ab" tvg-name="23:00 20/11 Galatasaray 2 vs Karapinar Anadolu [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/C0EJpZEG-27nVf6Wo.png" group-title="Bóng Đá",23:00 20/11 Galatasaray 2 vs Karapinar Anadolu [BLV Wanda]
 https://nembientv.com/live/040009acd0f9ab/index.m3u8
-#EXTINF:-1 tvg-id="759a1c8f57e2ef" tvg-name="18:00 19/11 Giang Tô vs Quảng Đông [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/htiQ4IEG-YRn3qYc4.png" group-title="Bóng Chuyền",18:00 19/11 Giang Tô vs Quảng Đông [BLV Wanda]
-https://nembientv.com/live/759a1c8f57e2ef/index.m3u8
-#EXTINF:-1 tvg-id="54018c8317914d" tvg-name="19:00 19/11 HÀ BẮC vs THƯỢNG HẢI [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/AFfPW7eM-vXV4GvV7.png" group-title="Bóng Chuyền",19:00 19/11 HÀ BẮC vs THƯỢNG HẢI [BLV The Hulk]
-https://nembientv.com/live/54018c8317914d/index.m3u8
 #EXTINF:-1 tvg-id="97e0231d7db8fd" tvg-name="02:30 20/11 Kedzierzyn-Kozle vs Barkom [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/8MLvWPHG-OA6CUGue.png" group-title="Bóng Chuyền",02:30 20/11 Kedzierzyn-Kozle vs Barkom [BLV Wanda]
-https://nembientv.com/live/97e0231d7db8fd/index.m3u8
+https://gn-live.saigon999.live/123che/123che@hnstream.m3u8
