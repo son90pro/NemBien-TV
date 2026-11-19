@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="304baec181cc1c" tvg-name="03:00 19/11 Chelsea W vs PSG W [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/Miv9FHHG-dQ3CHKf1.png" group-title="Bóng Đá",03:00 19/11 Chelsea W vs PSG W [BLV Vision]
-https://ivsplay.saigon999.live/live/live07.m3u8
 #EXTINF:-1 tvg-id="3841c997e2c10d" tvg-name="15:30 19/11 Preston Lions vs South Hobart [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/4rLQYLGG-lldGheui.png" group-title="Bóng Đá",15:30 19/11 Preston Lions vs South Hobart [BLV The Hulk]
 https://nembientv.com/live/3841c997e2c10d/index.m3u8
 #EXTINF:-1 tvg-id="e48a715be622e7" tvg-name="19:30 19/11 Cong An Ha Noi vs Johor DT [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/CU93T5Fa-KnmSRxvE.png" group-title="Bóng Đá",19:30 19/11 Cong An Ha Noi vs Johor DT [BLV Vision]
@@ -37,8 +35,6 @@ https://nembientv.com/live/b6abf38367e0d1/index.m3u8
 https://nembientv.com/live/f7d46effdaa24a/index.m3u8
 #EXTINF:-1 tvg-id="040009acd0f9ab" tvg-name="23:00 20/11 Galatasaray 2 vs Karapinar Anadolu [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/C0EJpZEG-27nVf6Wo.png" group-title="Bóng Đá",23:00 20/11 Galatasaray 2 vs Karapinar Anadolu [BLV Wanda]
 https://nembientv.com/live/040009acd0f9ab/index.m3u8
-#EXTINF:-1 tvg-id="f363e750eabd7c" tvg-name="02:30 19/11 Stilon Gorzow vs Lublin [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/AwCkrDXg-A5yULyWi.png" group-title="Bóng Chuyền",02:30 19/11 Stilon Gorzow vs Lublin [BLV Wanda]
-https://nembientv.com/live/f363e750eabd7c/index.m3u8
 #EXTINF:-1 tvg-id="759a1c8f57e2ef" tvg-name="18:00 19/11 Giang Tô vs Quảng Đông [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/htiQ4IEG-YRn3qYc4.png" group-title="Bóng Chuyền",18:00 19/11 Giang Tô vs Quảng Đông [BLV Wanda]
 https://nembientv.com/live/759a1c8f57e2ef/index.m3u8
 #EXTINF:-1 tvg-id="54018c8317914d" tvg-name="19:00 19/11 HÀ BẮC vs THƯỢNG HẢI [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/AFfPW7eM-vXV4GvV7.png" group-title="Bóng Chuyền",19:00 19/11 HÀ BẮC vs THƯỢNG HẢI [BLV The Hulk]
