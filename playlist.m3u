@@ -1,12 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="6b6fbf9c962eeb" tvg-name="00:45 20/11 Austria Vienna W vs Bayern Munich W [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/xWFNzHf5-SKlmyMpm.png" group-title="Bóng Đá",00:45 20/11 Austria Vienna W vs Bayern Munich W [BLV Vision]
-https://ivsplay.saigon999.live/live/live07.m3u8
-#EXTINF:-1 tvg-id="d934bc875bf30e" tvg-name="00:45 20/11 Paris FC W vs Koge W [BLV SpiderMan ]" tvg-logo="https://static.flashscore.com/res/image/data/f9dzeDzB-hEviRC6T.png" group-title="Bóng Đá",00:45 20/11 Paris FC W vs Koge W [BLV SpiderMan ]
-https://nembientv.com/live/d934bc875bf30e/index.m3u8
-#EXTINF:-1 tvg-id="7deacc3b709370" tvg-name="03:00 20/11 Arsenal W vs OL Lyonnes W [BLV SpiderMan ]" tvg-logo="https://static.flashscore.com/res/image/data/WbvWGBEG-QmAvFdvS.png" group-title="Bóng Đá",03:00 20/11 Arsenal W vs OL Lyonnes W [BLV SpiderMan ]
-https://nembientv.com/live/7deacc3b709370/index.m3u8
-#EXTINF:-1 tvg-id="a135f65ee8d3a0" tvg-name="03:00 20/11 SL Benfica W vs AS Roma W [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/GdXdR4Yg-QBWaD4Ui.png" group-title="Bóng Đá",03:00 20/11 SL Benfica W vs AS Roma W [BLV Vision]
-https://nembientv.com/live/a135f65ee8d3a0/index.m3u8
 #EXTINF:-1 tvg-id="a1ddd6a66c19a9" tvg-name="17:00 20/11 Thanh Hóa vs HAGL [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/jkzICadM-bRJembjh.png" group-title="Bóng Đá",17:00 20/11 Thanh Hóa vs HAGL [BLV The Hulk]
 https://nembientv.com/live/a1ddd6a66c19a9/index.m3u8
 #EXTINF:-1 tvg-id="b8b69a0b77faf0" tvg-name="19:00 20/11 Dewa United vs Persita [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/nmnoOY9r-fJYKj2Xi.png" group-title="Bóng Đá",19:00 20/11 Dewa United vs Persita [BLV Wanda]
@@ -21,5 +13,29 @@ https://nembientv.com/live/b6abf38367e0d1/index.m3u8
 https://nembientv.com/live/f7d46effdaa24a/index.m3u8
 #EXTINF:-1 tvg-id="040009acd0f9ab" tvg-name="23:00 20/11 Galatasaray 2 vs Karapinar Anadolu [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/C0EJpZEG-27nVf6Wo.png" group-title="Bóng Đá",23:00 20/11 Galatasaray 2 vs Karapinar Anadolu [BLV Wanda]
 https://nembientv.com/live/040009acd0f9ab/index.m3u8
-#EXTINF:-1 tvg-id="97e0231d7db8fd" tvg-name="02:30 20/11 Kedzierzyn-Kozle vs Barkom [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/8MLvWPHG-OA6CUGue.png" group-title="Bóng Chuyền",02:30 20/11 Kedzierzyn-Kozle vs Barkom [BLV Wanda]
-https://gn-live.saigon999.live/123che/123che@hnstream.m3u8
+#EXTINF:-1 tvg-id="32403db46b1679" tvg-name="00:30 21/11 Al Ahli SC vs Al Nassr [BLV SpiderMan ]" tvg-logo="https://static.flashscore.com/res/image/data/rkvFdlDa-tjD2oGGi.png" group-title="Bóng Đá",00:30 21/11 Al Ahli SC vs Al Nassr [BLV SpiderMan ]
+https://nembientv.com/live/32403db46b1679/index.m3u8
+#EXTINF:-1 tvg-id="ac289728988022" tvg-name="02:30 21/11 Bayern Munich vs FC Koln [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/tMir8iCr-SvLFaVNH.png" group-title="Bóng Đá",02:30 21/11 Bayern Munich vs FC Koln [BLV Vision]
+https://nembientv.com/live/ac289728988022/index.m3u8
+#EXTINF:-1 tvg-id="c68707b9c1afb8" tvg-name="03:00 21/11 Ath Bilbao vs Espanyol [BLV SpiderMan ]" tvg-logo="https://static.flashscore.com/res/image/data/Y7CgBGYg-vJb36ZBF.png" group-title="Bóng Đá",03:00 21/11 Ath Bilbao vs Espanyol [BLV SpiderMan ]
+https://nembientv.com/live/c68707b9c1afb8/index.m3u8
+#EXTINF:-1 tvg-id="ad2307e1357662" tvg-name="15:40 21/11 Brisbane Roar vs Sydney FC [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/SUOlzyXg-2FA1XNwU.png" group-title="Bóng Đá",15:40 21/11 Brisbane Roar vs Sydney FC [BLV The Hulk]
+https://nembientv.com/live/ad2307e1357662/index.m3u8
+#EXTINF:-1 tvg-id="95812b41278975" tvg-name="18:00 21/11 Thép Xanh Nam Định vs Hải Phòng [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/6oSz1BdM-4YgEdVnq.png" group-title="Bóng Đá",18:00 21/11 Thép Xanh Nam Định vs Hải Phòng [BLV Wanda]
+https://nembientv.com/live/95812b41278975/index.m3u8
+#EXTINF:-1 tvg-id="0f2199db995e34" tvg-name="19:30 21/11 Manchester City vs Fulham [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/UXcqj7HG-lQuhqN8N.png" group-title="Bóng Đá",19:30 21/11 Manchester City vs Fulham [BLV Vision]
+https://nembientv.com/live/0f2199db995e34/index.m3u8
+#EXTINF:-1 tvg-id="87167294f6361c" tvg-name="21:00 21/11 Como vs Cagliari [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/Cf5pQNyS-hpmw8K1h.png" group-title="Bóng Đá",21:00 21/11 Como vs Cagliari [BLV Wanda]
+https://nembientv.com/live/87167294f6361c/index.m3u8
+#EXTINF:-1 tvg-id="0746f97d62bd5d" tvg-name="21:30 21/11 B. Monchengladbach vs Dortmund [BLV SpiderMan ]" tvg-logo="https://static.flashscore.com/res/image/data/rDRx1VXg-84sATBUR.png" group-title="Bóng Đá",21:30 21/11 B. Monchengladbach vs Dortmund [BLV SpiderMan ]
+https://nembientv.com/live/0746f97d62bd5d/index.m3u8
+#EXTINF:-1 tvg-id="0a4092be7e1591" tvg-name="22:00 21/11 Bournemouth vs Nottingham [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/2Pb55xWg-2XyrBA7b.png" group-title="Bóng Đá",22:00 21/11 Bournemouth vs Nottingham [BLV Wanda]
+https://nembientv.com/live/0a4092be7e1591/index.m3u8
+#EXTINF:-1 tvg-id="1a7fb29db20aec" tvg-name="22:00 21/11 Tottenham vs Ipswich [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/ARC62UAr-Ig5FKJZ5.png" group-title="Bóng Đá",22:00 21/11 Tottenham vs Ipswich [BLV The Hulk]
+https://nembientv.com/live/1a7fb29db20aec/index.m3u8
+#EXTINF:-1 tvg-id="a7d33fd1bd6087" tvg-name="22:00 21/11 Chelsea vs Leeds [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/GMmvDEdM-vcRg8e0j.png" group-title="Bóng Đá",22:00 21/11 Chelsea vs Leeds [BLV Vision]
+https://nembientv.com/live/a7d33fd1bd6087/index.m3u8
+#EXTINF:-1 tvg-id="d1dd0db08710b8" tvg-name="23:15 21/11 Nice vs PSG [BLV SpiderMan ]" tvg-logo="https://static.flashscore.com/res/image/data/boyRUvyB-00sqJmg8.png" group-title="Bóng Đá",23:15 21/11 Nice vs PSG [BLV SpiderMan ]
+https://nembientv.com/live/d1dd0db08710b8/index.m3u8
+#EXTINF:-1 tvg-id="fcba453c455d81" tvg-name="02:30 21/11 Cuneo Volley vs Verona [BLV Wanda]" tvg-logo="https://img0.aiscore.com/volleyball/team/dc8ece056b4657e2c0ca3102b19f9f75.png!w60" group-title="Bóng Chuyền",02:30 21/11 Cuneo Volley vs Verona [BLV Wanda]
+https://nembientv.com/live/fcba453c455d81/index.m3u8
