@@ -1,10 +1,4 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="32403db46b1679" tvg-name="00:30 21/11 Al Ahli SC vs Al Nassr [BLV SpiderMan ]" tvg-logo="https://static.flashscore.com/res/image/data/rkvFdlDa-tjD2oGGi.png" group-title="Bóng Đá",00:30 21/11 Al Ahli SC vs Al Nassr [BLV SpiderMan ]
-https://ivsplay.saigon999.live/live/live05.m3u8
-#EXTINF:-1 tvg-id="ac289728988022" tvg-name="02:30 21/11 Bayern Munich vs FC Koln [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/tMir8iCr-SvLFaVNH.png" group-title="Bóng Đá",02:30 21/11 Bayern Munich vs FC Koln [BLV Vision]
-https://nembientv.com/live/ac289728988022/index.m3u8
-#EXTINF:-1 tvg-id="c68707b9c1afb8" tvg-name="03:00 21/11 Ath Bilbao vs Espanyol [BLV SpiderMan ]" tvg-logo="https://static.flashscore.com/res/image/data/Y7CgBGYg-vJb36ZBF.png" group-title="Bóng Đá",03:00 21/11 Ath Bilbao vs Espanyol [BLV SpiderMan ]
-https://nembientv.com/live/c68707b9c1afb8/index.m3u8
 #EXTINF:-1 tvg-id="ad2307e1357662" tvg-name="15:40 21/11 Brisbane Roar vs Sydney FC [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/SUOlzyXg-2FA1XNwU.png" group-title="Bóng Đá",15:40 21/11 Brisbane Roar vs Sydney FC [BLV The Hulk]
 https://nembientv.com/live/ad2307e1357662/index.m3u8
 #EXTINF:-1 tvg-id="95812b41278975" tvg-name="18:00 21/11 Thép Xanh Nam Định vs Hải Phòng [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/6oSz1BdM-4YgEdVnq.png" group-title="Bóng Đá",18:00 21/11 Thép Xanh Nam Định vs Hải Phòng [BLV Wanda]
@@ -23,7 +17,5 @@ https://nembientv.com/live/1a7fb29db20aec/index.m3u8
 https://nembientv.com/live/a7d33fd1bd6087/index.m3u8
 #EXTINF:-1 tvg-id="d1dd0db08710b8" tvg-name="23:15 21/11 Nice vs PSG [BLV SpiderMan ]" tvg-logo="https://static.flashscore.com/res/image/data/boyRUvyB-00sqJmg8.png" group-title="Bóng Đá",23:15 21/11 Nice vs PSG [BLV SpiderMan ]
 https://nembientv.com/live/d1dd0db08710b8/index.m3u8
-#EXTINF:-1 tvg-id="fcba453c455d81" tvg-name="02:30 21/11 Cuneo Volley vs Verona [BLV Wanda]" tvg-logo="https://img0.aiscore.com/volleyball/team/dc8ece056b4657e2c0ca3102b19f9f75.png!w60" group-title="Bóng Chuyền",02:30 21/11 Cuneo Volley vs Verona [BLV Wanda]
-https://nembientv.com/live/fcba453c455d81/index.m3u8
 #EXTINF:-1 tvg-id="b7e84748529292" tvg-name="11:05 21/11 Gunma Greenwings W vs Aleeza Aichi W [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/OQvoiZCr-KMZ7hG6b.png" group-title="Bóng Chuyền",11:05 21/11 Gunma Greenwings W vs Aleeza Aichi W [BLV The Hulk]
 https://nembientv.com/live/b7e84748529292/index.m3u8
