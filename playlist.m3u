@@ -1,14 +1,10 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="ad2307e1357662" tvg-name="15:40 21/11 Brisbane Roar vs Sydney FC [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/SUOlzyXg-2FA1XNwU.png" group-title="Bóng Đá",15:40 21/11 Brisbane Roar vs Sydney FC [BLV The Hulk]
-https://nembientv.com/live/ad2307e1357662/index.m3u8
-#EXTINF:-1 tvg-id="95812b41278975" tvg-name="18:00 21/11 Thép Xanh Nam Định vs Hải Phòng [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/6oSz1BdM-4YgEdVnq.png" group-title="Bóng Đá",18:00 21/11 Thép Xanh Nam Định vs Hải Phòng [BLV Wanda]
-https://nembientv.com/live/95812b41278975/index.m3u8
 #EXTINF:-1 tvg-id="0f2199db995e34" tvg-name="19:30 21/11 Manchester City vs Fulham [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/UXcqj7HG-lQuhqN8N.png" group-title="Bóng Đá",19:30 21/11 Manchester City vs Fulham [BLV Vision]
-https://nembientv.com/live/0f2199db995e34/index.m3u8
+https://ivsplay.saigon999.live/live/live07.m3u8
 #EXTINF:-1 tvg-id="635bb72267c425" tvg-name="20:00 21/11 Alaves vs Dep. A Coruna [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/hrI86AzS-EXAuP9cb.png" group-title="Bóng Đá",20:00 21/11 Alaves vs Dep. A Coruna [BLV Wanda]
-https://nembientv.com/live/635bb72267c425/index.m3u8
+https://gn-live.saigon999.live/123che/123che@hnstream.m3u8
 #EXTINF:-1 tvg-id="0746f97d62bd5d" tvg-name="21:30 21/11 B. Monchengladbach vs Dortmund [BLV SpiderMan ]" tvg-logo="https://static.flashscore.com/res/image/data/rDRx1VXg-84sATBUR.png" group-title="Bóng Đá",21:30 21/11 B. Monchengladbach vs Dortmund [BLV SpiderMan ]
-https://nembientv.com/live/0746f97d62bd5d/index.m3u8
+https://ivsplay.saigon999.live/live/live05.m3u8
 #EXTINF:-1 tvg-id="0a4092be7e1591" tvg-name="22:00 21/11 Bournemouth vs Nottingham [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/2Pb55xWg-2XyrBA7b.png" group-title="Bóng Đá",22:00 21/11 Bournemouth vs Nottingham [BLV Wanda]
 https://nembientv.com/live/0a4092be7e1591/index.m3u8
 #EXTINF:-1 tvg-id="1a7fb29db20aec" tvg-name="22:00 21/11 Tottenham vs Ipswich [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/ARC62UAr-Ig5FKJZ5.png" group-title="Bóng Đá",22:00 21/11 Tottenham vs Ipswich [BLV The Hulk]
@@ -17,5 +13,27 @@ https://nembientv.com/live/1a7fb29db20aec/index.m3u8
 https://nembientv.com/live/a7d33fd1bd6087/index.m3u8
 #EXTINF:-1 tvg-id="d1dd0db08710b8" tvg-name="23:15 21/11 Nice vs PSG [BLV SpiderMan ]" tvg-logo="https://static.flashscore.com/res/image/data/boyRUvyB-00sqJmg8.png" group-title="Bóng Đá",23:15 21/11 Nice vs PSG [BLV SpiderMan ]
 https://nembientv.com/live/d1dd0db08710b8/index.m3u8
-#EXTINF:-1 tvg-id="b7e84748529292" tvg-name="11:05 21/11 Gunma Greenwings W vs Aleeza Aichi W [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/OQvoiZCr-KMZ7hG6b.png" group-title="Bóng Chuyền",11:05 21/11 Gunma Greenwings W vs Aleeza Aichi W [BLV The Hulk]
-https://play.saigon8386.live/live_8e01a20967a65b5d/index.m3u8
+#EXTINF:-1 tvg-id="2fde1d78ad55e1" tvg-name="00:30 22/11 Newcastle vs Arsenal [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/rgS2eBYg-2yb2tbAr.png" group-title="Bóng Đá",00:30 22/11 Newcastle vs Arsenal [BLV Vision]
+https://nembientv.com/live/2fde1d78ad55e1/index.m3u8
+#EXTINF:-1 tvg-id="d065c150262460" tvg-name="02:45 22/11 Napoli vs Torino [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/lhPsgJWg-Stb48WaO.png" group-title="Bóng Đá",02:45 22/11 Napoli vs Torino [BLV Vision]
+https://nembientv.com/live/d065c150262460/index.m3u8
+#EXTINF:-1 tvg-id="4a9b0dadd79ca4" tvg-name="03:00 22/11 Real Madrid vs Celta Vigo [BLV SpiderMan ]" tvg-logo="https://static.flashscore.com/res/image/data/A7kHoxZA-ttfpEDUq.png" group-title="Bóng Đá",03:00 22/11 Real Madrid vs Celta Vigo [BLV SpiderMan ]
+https://nembientv.com/live/4a9b0dadd79ca4/index.m3u8
+#EXTINF:-1 tvg-id="54e652f262070e" tvg-name="06:00 22/11 Inter Miami vs Columbus Crew [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/SbujguWg-UwKTVGeG.png" group-title="Bóng Đá",06:00 22/11 Inter Miami vs Columbus Crew [BLV Wanda]
+https://nembientv.com/live/54e652f262070e/index.m3u8
+#EXTINF:-1 tvg-id="8e1596b6b7b5d7" tvg-name="18:00 22/11 Hong Linh Ha Tinh vs Ho Chi Minh [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/bmNymCyB-vcL7uyZh.png" group-title="Bóng Đá",18:00 22/11 Hong Linh Ha Tinh vs Ho Chi Minh [BLV The Hulk]
+https://nembientv.com/live/8e1596b6b7b5d7/index.m3u8
+#EXTINF:-1 tvg-id="383e9200b02a06" tvg-name="18:30 22/11 Juventus vs Venezia [BLV SpiderMan ]" tvg-logo="https://static.flashscore.com/res/image/data/GKF3dlf5-0nz5yHcE.png" group-title="Bóng Đá",18:30 22/11 Juventus vs Venezia [BLV SpiderMan ]
+https://nembientv.com/live/383e9200b02a06/index.m3u8
+#EXTINF:-1 tvg-id="5031756097e3a2" tvg-name="20:00 22/11 Barcelona vs Villarreal [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/8dhw5vxS-fcDVLdrL.png" group-title="Bóng Đá",20:00 22/11 Barcelona vs Villarreal [BLV Vision]
+https://nembientv.com/live/5031756097e3a2/index.m3u8
+#EXTINF:-1 tvg-id="9c0b35763b1bf2" tvg-name="21:00 22/11 Hull vs Brighton [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/jL2Nk4Fa-bJFnYpTt.png" group-title="Bóng Đá",21:00 22/11 Hull vs Brighton [BLV Wanda]
+https://nembientv.com/live/9c0b35763b1bf2/index.m3u8
+#EXTINF:-1 tvg-id="b10aa2473ad648" tvg-name="22:15 22/11 Racing Santander vs Real Sociedad [BLV SpiderMan ]" tvg-logo="https://static.flashscore.com/res/image/data/COqz35Ar-MsWrauH8.png" group-title="Bóng Đá",22:15 22/11 Racing Santander vs Real Sociedad [BLV SpiderMan ]
+https://nembientv.com/live/b10aa2473ad648/index.m3u8
+#EXTINF:-1 tvg-id="b3852fe61150e0" tvg-name="23:30 22/11 Liverpool vs Manchester Utd [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/Gr0cGteM-KCp4zq5F.png" group-title="Bóng Đá",23:30 22/11 Liverpool vs Manchester Utd [BLV The Hulk]
+https://nembientv.com/live/b3852fe61150e0/index.m3u8
+#EXTINF:-1 tvg-id="543ec379700b2a" tvg-name="12:05 22/11 Gunma Greenwings W vs Aleeza Aichi W [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/OQvoiZCr-KMZ7hG6b.png" group-title="Bóng Chuyền",12:05 22/11 Gunma Greenwings W vs Aleeza Aichi W [BLV The Hulk]
+https://nembientv.com/live/543ec379700b2a/index.m3u8
+#EXTINF:-1 tvg-id="f986971ef7cf8b" tvg-name="23:00 22/11 Milano vs Trentino [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/h8p3aXCa-bmgOhIxD.png" group-title="Bóng Chuyền",23:00 22/11 Milano vs Trentino [BLV Wanda]
+https://nembientv.com/live/f986971ef7cf8b/index.m3u8
