@@ -1,13 +1,9 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="9f21645f260af4" tvg-name="16:00 23/11 Yangon City vs Hantharwady Utd [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/QZbt0MHG-W6SdkNj1.png" group-title="Bóng Đá",16:00 23/11 Yangon City vs Hantharwady Utd [BLV The Hulk]
-https://nembientv.com/live/9f21645f260af4/index.m3u8
-#EXTINF:-1 tvg-id="dfb90ee56ee108" tvg-name="19:30 23/11 Spain U17 vs Fiji U17 [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/tIu8saFG-xxe4Fem8.png" group-title="Bóng Đá",19:30 23/11 Spain U17 vs Fiji U17 [BLV The Hulk]
-https://nembientv.com/live/dfb90ee56ee108/index.m3u8
 #EXTINF:-1 tvg-id="f141b4b75b662f" tvg-name="19:30 23/11 Tajikistan U17 vs Croatia U17 [BLV Thor ]" tvg-logo="https://static.flashscore.com/res/image/data/tIhF3vZA-KlKhSYan.png" group-title="Bóng Đá",19:30 23/11 Tajikistan U17 vs Croatia U17 [BLV Thor ]
 https://nembientv.com/live/f141b4b75b662f/index.m3u8
 #EXTINF:-1 tvg-id="ebdb2620619f8b" tvg-name="20:45 23/11 Neftchi Fargona (UZB) vs Al Hilal (SAU) [BLV Thanos]" tvg-logo="https://static.flashscore.com/res/image/data/xMQRhXCa-tKbQtiAt.png" group-title="Bóng Đá",20:45 23/11 Neftchi Fargona (UZB) vs Al Hilal (SAU) [BLV Thanos]
 https://nembientv.com/live/ebdb2620619f8b/index.m3u8
-#EXTINF:-1 tvg-id="7ba3356ac1b299" tvg-name="22:30 23/11 Việt Nam U17 vs New Zealand U17 [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/2VXsWeFa-GWsEDOiC.png" group-title="Bóng Đá",22:30 23/11 Việt Nam U17 vs New Zealand U17 [BLV Vision]
+#EXTINF:-1 tvg-id="7ba3356ac1b299" tvg-name="22:30 23/11 Việt Nam U17 vs New Zealand U17 [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/2VXsWeFa-GWsEDOiC.png" group-title="Bóng Đá",22:30 23/11 Việt Nam U17 vs New Zealand U17 [BLV Wanda]
 https://nembientv.com/live/7ba3356ac1b299/index.m3u8
 #EXTINF:-1 tvg-id="81328aa6b9585e" tvg-name="01:15 24/11 Al Ittihad (SAU) vs Pakhtakor (UZB) [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/UmlxT0ZA-xdB0SprH.png" group-title="Bóng Đá",01:15 24/11 Al Ittihad (SAU) vs Pakhtakor (UZB) [BLV Vision]
 https://nembientv.com/live/81328aa6b9585e/index.m3u8
@@ -17,10 +13,6 @@ https://nembientv.com/live/e17e129eb70dd7/index.m3u8
 https://nembientv.com/live/62fa6199d4fe5f/index.m3u8
 #EXTINF:-1 tvg-id="ef277356b3725f" tvg-name="03:00 24/11 Levante vs Elche [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/25Tx45il-QqzX7amJ.png" group-title="Bóng Đá",03:00 24/11 Levante vs Elche [BLV Wanda]
 https://nembientv.com/live/ef277356b3725f/index.m3u8
-#EXTINF:-1 tvg-id="02cf12ce083e70" tvg-name="17:00 24/11 Kyoto Sanga FC vs Pohang Steelers [BLV The Hulk]" tvg-logo="https://storage.lsmedia1.com/images/team/high/enet/8542.png" group-title="Bóng Đá",17:00 24/11 Kyoto Sanga FC vs Pohang Steelers [BLV The Hulk]
-https://nembientv.com/live/02cf12ce083e70/index.m3u8
-#EXTINF:-1 tvg-id="c64ab54beee47c" tvg-name="19:00 24/11 FC Bhayangkara vs Semen Padang [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/8jnKBPkl-UBTLvuxH.png" group-title="Bóng Đá",19:00 24/11 FC Bhayangkara vs Semen Padang [BLV The Hulk]
-https://nembientv.com/live/c64ab54beee47c/index.m3u8
 #EXTINF:-1 tvg-id="193fc6a060316b" tvg-name="19:15 24/11 Shanghai Port  vs Buriram [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/pv2alWYA-4Iubiv1h.png" group-title="Bóng Đá",19:15 24/11 Shanghai Port  vs Buriram [BLV Vision]
 https://nembientv.com/live/193fc6a060316b/index.m3u8
 #EXTINF:-1 tvg-id="c34a5169d34a6b" tvg-name="19:15 24/11 Cong An Ha Noi  vs Vissel Kobe [BLV Thanos]" tvg-logo="https://static.flashscore.com/res/image/data/CU93T5Fa-KnmSRxvE.png" group-title="Bóng Đá",19:15 24/11 Cong An Ha Noi  vs Vissel Kobe [BLV Thanos]
@@ -31,7 +23,7 @@ https://nembientv.com/live/6cf291c904e3b7/index.m3u8
 https://nembientv.com/live/ede0f872b425ca/index.m3u8
 #EXTINF:-1 tvg-id="33d494d1dec76e" tvg-name="20:30 23/11 Metar Chelyabinsk W vs Tulitsa W [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/tfNmkTZA-tSxgcUoM.png" group-title="Bóng Chuyền",20:30 23/11 Metar Chelyabinsk W vs Tulitsa W [BLV Wanda]
 https://nembientv.com/live/33d494d1dec76e/index.m3u8
-#EXTINF:-1 tvg-id="13a8118334c31d" tvg-name="23:00 23/11 Dynamo Moscow W vs Dynamo Kazan W [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/Kji8icCa-YkXz5hTm.png" group-title="Bóng Chuyền",23:00 23/11 Dynamo Moscow W vs Dynamo Kazan W [BLV Wanda]
+#EXTINF:-1 tvg-id="13a8118334c31d" tvg-name="23:00 23/11 Dynamo Moscow W vs Dynamo Kazan W [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/Kji8icCa-YkXz5hTm.png" group-title="Bóng Chuyền",23:00 23/11 Dynamo Moscow W vs Dynamo Kazan W [BLV Vision]
 https://nembientv.com/live/13a8118334c31d/index.m3u8
 #EXTINF:-1 tvg-id="42e0933b34151d" tvg-name="23:00 24/11 Eczacibasi W vs Tent W [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/6wWfI3zB-jm1g2SD5.png" group-title="Bóng Chuyền",23:00 24/11 Eczacibasi W vs Tent W [BLV Wanda]
 https://nembientv.com/live/42e0933b34151d/index.m3u8
