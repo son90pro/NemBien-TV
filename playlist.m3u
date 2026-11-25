@@ -1,28 +1,18 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="1efbf9efc73c03" tvg-name="19:30 25/11 Ecuador U17 vs South Korea U17 [BLV Giàng A Rùa]" tvg-logo="https://static.flashscore.com/res/image/data/px05v3il-ppkTBDF5.png" group-title="Bóng Đá",19:30 25/11 Ecuador U17 vs South Korea U17 [BLV Giàng A Rùa]
-https://play.saigon8386.live/live_5afc467f34a4a65b/index.m3u8
-#EXTINF:-1 tvg-id="ad104ede416382" tvg-name="20:45 25/11 Nasaf Qarshi vs Al Khalidiyah [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/Ozh2Rag5-MwERIUFm.png" group-title="Bóng Đá",20:45 25/11 Nasaf Qarshi vs Al Khalidiyah [BLV Wanda]
-https://nembientv.com/live/ad104ede416382/index.m3u8
-#EXTINF:-1 tvg-id="e3e4b0b9d2eec2" tvg-name="22:30 25/11 Australia U17 vs Mozambique U17 [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/ncHsezCr-nJSW0dYE.png" group-title="Bóng Đá",22:30 25/11 Australia U17 vs Mozambique U17 [BLV Vision]
-https://nembientv.com/live/e3e4b0b9d2eec2/index.m3u8
-#EXTINF:-1 tvg-id="b5adb8f265d2d8" tvg-name="00:45 26/11 Slavia Prague vs Villarreal [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/vJ0yQjf5-8nl9JmVC.png" group-title="Bóng Đá",00:45 26/11 Slavia Prague vs Villarreal [BLV Vision]
-https://nembientv.com/live/b5adb8f265d2d8/index.m3u8
-#EXTINF:-1 tvg-id="ce63bd9444e92b" tvg-name="00:45 26/11 Sabah FC vs Barcelona [BLV Thanos]" tvg-logo="https://static.flashscore.com/res/image/data/QaG2tPEG-O8TAkqbq.png" group-title="Bóng Đá",00:45 26/11 Sabah FC vs Barcelona [BLV Thanos]
-https://nembientv.com/live/ce63bd9444e92b/index.m3u8
 #EXTINF:-1 tvg-id="12c1786ae1dc8b" tvg-name="03:00 26/11 Club Brugge KV vs Liverpool [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/0nirFFf5-44lq3LsP.png" group-title="Bóng Đá",03:00 26/11 Club Brugge KV vs Liverpool [BLV Wanda]
-https://nembientv.com/live/12c1786ae1dc8b/index.m3u8
-#EXTINF:-1 tvg-id="6618a4f9d0c0d8" tvg-name="03:00 26/11 Lille vs Bayern Munich [BLV Giàng A Rùa]" tvg-logo="https://static.flashscore.com/res/image/data/Y91hQAzS-UDticXKP.png" group-title="Bóng Đá",03:00 26/11 Lille vs Bayern Munich [BLV Giàng A Rùa]
-https://nembientv.com/live/6618a4f9d0c0d8/index.m3u8
+https://gn-live.saigon999.live/123che/123che@hnstream.m3u8
+#EXTINF:-1 tvg-id="6618a4f9d0c0d8" tvg-name="03:00 26/11 Lille vs Bayern Munich [Blv Thanos]" tvg-logo="https://static.flashscore.com/res/image/data/Y91hQAzS-UDticXKP.png" group-title="Bóng Đá",03:00 26/11 Lille vs Bayern Munich [Blv Thanos]
+https://gn-live.saigon999.live/banhmi/banhmi@hnstream.m3u8
 #EXTINF:-1 tvg-id="90e90b52d88bc1" tvg-name="03:00 26/11 Sporting CP vs Manchester Utd [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/OWbPc9il-4ddK8rOq.png" group-title="Bóng Đá",03:00 26/11 Sporting CP vs Manchester Utd [BLV Vision]
-https://nembientv.com/live/90e90b52d88bc1/index.m3u8
+https://ivsplay.saigon999.live/live/live07.m3u8
 #EXTINF:-1 tvg-id="92cf000c557bf1" tvg-name="03:00 26/11 PSG vs AS Roma [BLV Thor ]" tvg-logo="https://static.flashscore.com/res/image/data/EskJufg5-A7UDDuOO.png" group-title="Bóng Đá",03:00 26/11 PSG vs AS Roma [BLV Thor ]
-https://nembientv.com/live/92cf000c557bf1/index.m3u8
-#EXTINF:-1 tvg-id="c852b0a4ddec17" tvg-name="03:00 26/11 Inter Milan vs Stuttgart [BLV Thor ]" tvg-logo="https://static.flashscore.com/res/image/data/lxz64qDa-O8c8nWOb.png" group-title="Bóng Đá",03:00 26/11 Inter Milan vs Stuttgart [BLV Thor ]
-https://nembientv.com/live/c852b0a4ddec17/index.m3u8
+https://play.saigon8386.live/live_c99f3f5e06548727/index.m3u8
 #EXTINF:-1 tvg-id="c242a3de6aa153" tvg-name="17:00 26/11 Tampines Rovers FC vs Shanghai Shenhua [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/n5MuN2e5-d0hl69s2.png" group-title="Bóng Đá",17:00 26/11 Tampines Rovers FC vs Shanghai Shenhua [BLV Wanda]
 https://nembientv.com/live/c242a3de6aa153/index.m3u8
-#EXTINF:-1 tvg-id="a905026b8ed946" tvg-name="19:15 26/11 Pathum United vs Lion City [BLV Giàng A Rùa]" tvg-logo="https://static.flashscore.com/res/image/data/KfeKbBYg-0pXo2qlp.png" group-title="Bóng Đá",19:15 26/11 Pathum United vs Lion City [BLV Giàng A Rùa]
+#EXTINF:-1 tvg-id="a905026b8ed946" tvg-name="19:15 26/11 Pathum United vs Lion City [Blv Thanos]" tvg-logo="https://static.flashscore.com/res/image/data/KfeKbBYg-0pXo2qlp.png" group-title="Bóng Đá",19:15 26/11 Pathum United vs Lion City [Blv Thanos]
 https://nembientv.com/live/a905026b8ed946/index.m3u8
+#EXTINF:-1 tvg-id="402eecec28de83" tvg-name="20:00 26/11 Vietnam U17 vs Mali U17 [BLV Giàng a rùa]" tvg-logo="https://static.flashscore.com/res/image/data/2VXsWeFa-GWsEDOiC.png" group-title="Bóng Đá",20:00 26/11 Vietnam U17 vs Mali U17 [BLV Giàng a rùa]
+https://nembientv.com/live/402eecec28de83/index.m3u8
 #EXTINF:-1 tvg-id="c49f6cc56cc06d" tvg-name="20:00 26/11 New Zealand U17 vs Bỉ U17 [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/vuXmSChl-zmDbXBOa.png" group-title="Bóng Đá",20:00 26/11 New Zealand U17 vs Bỉ U17 [BLV Wanda]
 https://nembientv.com/live/c49f6cc56cc06d/index.m3u8
 #EXTINF:-1 tvg-id="df22fd8227506e" tvg-name="20:00 26/11 Việt Nam U17 vs Mali U17 [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/2VXsWeFa-GWsEDOiC.png" group-title="Bóng Đá",20:00 26/11 Việt Nam U17 vs Mali U17 [BLV Vision]
@@ -33,9 +23,35 @@ https://nembientv.com/live/32cddea80792ed/index.m3u8
 https://nembientv.com/live/4cc212355b6def/index.m3u8
 #EXTINF:-1 tvg-id="61f3ee838c6b91" tvg-name="22:30 26/11 Kairat Almaty vs Mjallby [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/6uyKz6FG-rwQpsSWo.png" group-title="Bóng Đá",22:30 26/11 Kairat Almaty vs Mjallby [BLV Vision]
 https://nembientv.com/live/61f3ee838c6b91/index.m3u8
-#EXTINF:-1 tvg-id="ebd789b8ac2008" tvg-name="23:00 25/11 Vakifbank W vs Asterix Avo W [BLV Thor ]" tvg-logo="https://static.flashscore.com/res/image/data/YRICRqzB-A3UKTsyj.png" group-title="Bóng Chuyền",23:00 25/11 Vakifbank W vs Asterix Avo W [BLV Thor ]
-https://nembientv.com/live/ebd789b8ac2008/index.m3u8
+#EXTINF:-1 tvg-id="199b5b7a4cf476" tvg-name="00:45 27/11 Celta Vigo vs Bournemouth [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/O2htOWDa-SOY3p1Si.png" group-title="Bóng Đá",00:45 27/11 Celta Vigo vs Bournemouth [BLV Vision]
+https://nembientv.com/live/199b5b7a4cf476/index.m3u8
+#EXTINF:-1 tvg-id="6c5dd8c44d294d" tvg-name="00:45 27/11 Din. Zagreb vs Bayer Leverkusen [BLV Thor ]" tvg-logo="https://static.flashscore.com/res/image/data/YktDsvYg-GU4hlIMk.png" group-title="Bóng Đá",00:45 27/11 Din. Zagreb vs Bayer Leverkusen [BLV Thor ]
+https://nembientv.com/live/6c5dd8c44d294d/index.m3u8
+#EXTINF:-1 tvg-id="bad4b330b949cd" tvg-name="00:45 27/11 Olympiacos Piraeus vs AC Milan [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/C6DyywyB-lzmp9FUJ.png" group-title="Bóng Đá",00:45 27/11 Olympiacos Piraeus vs AC Milan [BLV Wanda]
+https://nembientv.com/live/bad4b330b949cd/index.m3u8
+#EXTINF:-1 tvg-id="ffc1637b8a8784" tvg-name="00:45 27/11 Brighton vs Univ. Craiova [Blv Thanos]" tvg-logo="https://static.flashscore.com/res/image/data/40juIezB-b92lfEJC.png" group-title="Bóng Đá",00:45 27/11 Brighton vs Univ. Craiova [Blv Thanos]
+https://nembientv.com/live/ffc1637b8a8784/index.m3u8
+#EXTINF:-1 tvg-id="755cb6883f60b2" tvg-name="03:00 27/11 Sunderland vs Jagiellonia [BLV Thor ]" tvg-logo="https://static.flashscore.com/res/image/data/ln86XXjl-0d34NJCO.png" group-title="Bóng Đá",03:00 27/11 Sunderland vs Jagiellonia [BLV Thor ]
+https://nembientv.com/live/755cb6883f60b2/index.m3u8
+#EXTINF:-1 tvg-id="8628714c2ff941" tvg-name="03:00 27/11 Crystal Palace vs Real Sociedad [Blv Thanos]" tvg-logo="https://static.flashscore.com/res/image/data/AFNlsDzS-drybTCiH.png" group-title="Bóng Đá",03:00 27/11 Crystal Palace vs Real Sociedad [Blv Thanos]
+https://nembientv.com/live/8628714c2ff941/index.m3u8
+#EXTINF:-1 tvg-id="af19c3f1b335d3" tvg-name="03:00 27/11 Juventus vs Omonia [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/GKF3dlf5-0nz5yHcE.png" group-title="Bóng Đá",03:00 27/11 Juventus vs Omonia [BLV Vision]
+https://nembientv.com/live/af19c3f1b335d3/index.m3u8
+#EXTINF:-1 tvg-id="3f4f63ba92f725" tvg-name="18:00 27/11 Thép Xanh Nam Định vs Công An Hà Nội [BLV Thor ]" tvg-logo="https://static.flashscore.com/res/image/data/6oSz1BdM-4YgEdVnq.png" group-title="Bóng Đá",18:00 27/11 Thép Xanh Nam Định vs Công An Hà Nội [BLV Thor ]
+https://nembientv.com/live/3f4f63ba92f725/index.m3u8
+#EXTINF:-1 tvg-id="810a7c7143bf43" tvg-name="20:00 27/11 Honduras U17 vs Japan U17 [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/fuSfRhYA-vkaRdGWL.png" group-title="Bóng Đá",20:00 27/11 Honduras U17 vs Japan U17 [BLV Wanda]
+https://nembientv.com/live/810a7c7143bf43/index.m3u8
+#EXTINF:-1 tvg-id="6121dd454b8e8d" tvg-name="21:30 27/11 Al Qadsiah vs Al Fayha [Blv Thanos]" tvg-logo="https://static.flashscore.com/res/image/data/QFOCP3jl-OvCAgTwF.png" group-title="Bóng Đá",21:30 27/11 Al Qadsiah vs Al Fayha [Blv Thanos]
+https://nembientv.com/live/6121dd454b8e8d/index.m3u8
+#EXTINF:-1 tvg-id="30159e800423ba" tvg-name="23:30 27/11 Torpedo Moscow vs SKA Khabarovsk [BLV Vision]" tvg-logo="https://static.flashscore.com/res/image/data/bg1rryhl-UsdRiD7F.png" group-title="Bóng Đá",23:30 27/11 Torpedo Moscow vs SKA Khabarovsk [BLV Vision]
+https://nembientv.com/live/30159e800423ba/index.m3u8
 #EXTINF:-1 tvg-id="b1223908266532" tvg-name="16:35 26/11 Nippon Steel Sakai Blazers vs Tokyo Great Bears [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/nBXUNBil-0AzTAQaH.png" group-title="Bóng Chuyền",16:35 26/11 Nippon Steel Sakai Blazers vs Tokyo Great Bears [BLV The Hulk]
 https://nembientv.com/live/b1223908266532/index.m3u8
 #EXTINF:-1 tvg-id="d231b4c6708f44" tvg-name="19:00 26/11 Hebei vs Fujian [BLV The Hulk]" tvg-logo="https://static.flashscore.com/res/image/data/AFfPW7eM-vXV4GvV7.png" group-title="Bóng Chuyền",19:00 26/11 Hebei vs Fujian [BLV The Hulk]
 https://nembientv.com/live/d231b4c6708f44/index.m3u8
+#EXTINF:-1 tvg-id="3d626d106370ed" tvg-name="02:30 27/11 Conegliano Nữ vs Novara Nữ [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/8SyXR1f5-zwIwk56d.png" group-title="Bóng Chuyền",02:30 27/11 Conegliano Nữ vs Novara Nữ [BLV Wanda]
+https://nembientv.com/live/3d626d106370ed/index.m3u8
+#EXTINF:-1 tvg-id="9e303188b73748" tvg-name="16:35 27/11 Osaka Sakai vs FC Tokyo [BLV The Hulk]" tvg-logo="https://img0.aiscore.com/volleyball/team/0edc625fa92731ea0b4169ba2f91e6bf.png!w60" group-title="Bóng Chuyền",16:35 27/11 Osaka Sakai vs FC Tokyo [BLV The Hulk]
+https://nembientv.com/live/9e303188b73748/index.m3u8
+#EXTINF:-1 tvg-id="8d1abf470d4930" tvg-name="17:00 27/11 KAL Jumbos vs KB Stars [BLV Wanda]" tvg-logo="https://static.flashscore.com/res/image/data/xY6qEOyS-t0SNv417.png" group-title="Bóng Chuyền",17:00 27/11 KAL Jumbos vs KB Stars [BLV Wanda]
+https://nembientv.com/live/8d1abf470d4930/index.m3u8
